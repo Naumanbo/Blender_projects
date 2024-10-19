@@ -1,0 +1,2 @@
+Gotta redo the textures
+1. Just ctrl+shift+T in shading page and select the files for the texture.
